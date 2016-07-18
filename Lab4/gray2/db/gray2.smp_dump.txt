@@ -1,0 +1,19 @@
+
+State Machine - |gray2|state
+Name state.STATEF state.STATEE state.STATED state.STATEC state.STATEB state.STATEA state.STATE9 state.STATE8 state.STATE7 state.STATE6 state.STATE5 state.STATE4 state.STATE3 state.STATE2 state.STATE1 state.STATE0 
+state.STATE0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+state.STATE1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
+state.STATE2 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 
+state.STATE3 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 
+state.STATE4 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 
+state.STATE5 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
+state.STATE6 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 
+state.STATE7 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 
+state.STATE8 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 
+state.STATE9 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 
+state.STATEA 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 
+state.STATEB 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 
+state.STATEC 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 
+state.STATED 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 
+state.STATEE 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+state.STATEF 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 

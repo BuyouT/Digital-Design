@@ -1,0 +1,1 @@
+When you press the button the clk will change every second. The first and second LEDs will light up the gray and counter respectively.

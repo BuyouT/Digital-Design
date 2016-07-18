@@ -1,0 +1,64 @@
+|clk_gen
+clk50MHz => clk_div:U_CD.clk_in
+rst => clk_div:U_CD.rst
+rst => temp_out.ACLR
+rst => count[0].ACLR
+rst => count[1].ACLR
+rst => count[2].ACLR
+rst => count[3].ACLR
+rst => count[4].ACLR
+rst => count[5].ACLR
+rst => count[6].ACLR
+rst => count[7].ACLR
+rst => count[8].ACLR
+rst => count[9].ACLR
+button_n => temp_out.OUTPUTSELECT
+button_n => count.OUTPUTSELECT
+button_n => count.OUTPUTSELECT
+button_n => count.OUTPUTSELECT
+button_n => count.OUTPUTSELECT
+button_n => count.OUTPUTSELECT
+button_n => count.OUTPUTSELECT
+button_n => count.OUTPUTSELECT
+button_n => count.OUTPUTSELECT
+button_n => count.OUTPUTSELECT
+button_n => count.OUTPUTSELECT
+clk_out <= temp_out.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|clk_gen|clk_div:U_CD
+clk_in => count[0].CLK
+clk_in => count[1].CLK
+clk_in => count[2].CLK
+clk_in => count[3].CLK
+clk_in => count[4].CLK
+clk_in => count[5].CLK
+clk_in => count[6].CLK
+clk_in => count[7].CLK
+clk_in => count[8].CLK
+clk_in => count[9].CLK
+clk_in => count[10].CLK
+clk_in => count[11].CLK
+clk_in => count[12].CLK
+clk_in => count[13].CLK
+clk_in => count[14].CLK
+clk_in => clk_hz.CLK
+clk_out <= clk_hz.DB_MAX_OUTPUT_PORT_TYPE
+rst => count[0].ACLR
+rst => count[1].ACLR
+rst => count[2].ACLR
+rst => count[3].ACLR
+rst => count[4].ACLR
+rst => count[5].ACLR
+rst => count[6].ACLR
+rst => count[7].ACLR
+rst => count[8].ACLR
+rst => count[9].ACLR
+rst => count[10].ACLR
+rst => count[11].ACLR
+rst => count[12].ACLR
+rst => count[13].ACLR
+rst => count[14].ACLR
+rst => clk_hz.ACLR
+
+

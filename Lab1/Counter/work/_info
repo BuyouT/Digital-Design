@@ -1,0 +1,96 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\13.1
+Ecounter
+Z0 w1452985343
+Z1 DPx10 cycloneiii 20 cycloneiii_atom_pack 0 22 ]RlG5R]Q[aFAe9T5<XI<o1
+Z2 DPx10 cycloneiii 21 cycloneiii_components 0 22 czVkNK5?8i<HPTLVSV_3a2
+Z3 DPx4 ieee 16 vital_primitives 0 22 9W@YP9_VCb?_GCJ8e:;YQ0
+Z4 DPx6 altera 11 dffeas_pack 0 22 oY7WPe2I:Taj0>HV`A`AH0
+Z5 DPx4 ieee 12 vital_timing 0 22 7h8zz2S4HVg:a;2TBMI[j1
+Z6 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z7 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z8 DPx6 altera 28 altera_primitives_components 0 22 H[E=U;zSVlD;ca@gnkzIO0
+Z9 dC:\Users\stefano92\Desktop\Stefano\UF shit\Spring2016\Digital Design\Lab1\Counter
+Z10 8C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab1/Counter/simulation/modelsim/Counter.vho
+Z11 FC:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab1/Counter/simulation/modelsim/Counter.vho
+l0
+L36
+V4Z`>Xe@^zhTRcQQ9^n^YY1
+Z12 OV;C;10.1d;51
+32
+Z13 !s108 1452985462.577000
+Z14 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab1/Counter/simulation/modelsim/Counter.vho|
+Z15 !s107 C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab1/Counter/simulation/modelsim/Counter.vho|
+Z16 o-work work -2002 -explicit -O0
+Z17 tExplicit 1
+!s100 U9i3HRC4E`_>W0iPIfZii0
+!i10b 1
+Astructure
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+Z18 DEx4 work 7 counter 0 22 4Z`>Xe@^zhTRcQQ9^n^YY1
+l168
+L86
+VmGOfzoMWfYTNn^`1c4QnN2
+R12
+32
+R13
+R14
+R15
+R16
+R17
+!s100 @dPo9P2j^]kMkPjZUCC]_0
+!i10b 1
+Ecounter_tb
+Z19 w1452984807
+Z20 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R6
+R7
+R9
+Z21 8C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab1/Counter/counter_tb.vhd
+Z22 FC:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab1/Counter/counter_tb.vhd
+l0
+L8
+VKTnlPh;ckWSi7^EJ@H=o01
+!s100 d6W9B8bMoQWgJ0Y0aaF4h1
+R12
+32
+!i10b 1
+Z23 !s108 1452985462.877000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab1/Counter/counter_tb.vhd|
+Z25 !s107 C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab1/Counter/counter_tb.vhd|
+R16
+R17
+Atb
+R1
+R2
+R3
+R4
+R5
+R8
+R18
+R20
+R6
+R7
+DEx4 work 10 counter_tb 0 22 KTnlPh;ckWSi7^EJ@H=o01
+l41
+L11
+V>KJCIEF]]RFH7O`NTkBmg3
+!s100 HoSSO:kR2FoWcg;GEJnmn3
+R12
+32
+!i10b 1
+R23
+R24
+R25
+R16
+R17

@@ -1,0 +1,9 @@
+|gray2
+clk => state~1.DATAIN
+rst => state~3.DATAIN
+output[0] <= WideOr3.DB_MAX_OUTPUT_PORT_TYPE
+output[1] <= WideOr2.DB_MAX_OUTPUT_PORT_TYPE
+output[2] <= WideOr1.DB_MAX_OUTPUT_PORT_TYPE
+output[3] <= WideOr0.DB_MAX_OUTPUT_PORT_TYPE
+
+

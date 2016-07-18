@@ -1,0 +1,494 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\Stefano\Desktop\Stefano\UF shit\Spring2016\Digital Design\Lab4\counter
+Ecomparator
+Z0 w1456393641
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\Stefano\Desktop\Stefano\UF shit\Spring2016\Digital Design\Lab5\GCD
+Z5 8C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/comparator.vhd
+Z6 FC:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/comparator.vhd
+l0
+L5
+VSCfK;DCVaIZTGRoebh6k22
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1456409078.243000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/comparator.vhd|
+Z10 !s107 C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/comparator.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 1SPILLKR^V=J4M1?hCam43
+!i10b 1
+Alogic
+R1
+R2
+R3
+Z13 DEx4 work 10 comparator 0 22 SCfK;DCVaIZTGRoebh6k22
+l18
+L17
+VD?jWk0]O8?5@LcXB[zV6k1
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!s100 m<jMJI?RH[N[0T<4Y0[Nb2
+!i10b 1
+Ectrl1
+Z14 w1456394509
+R1
+R2
+R3
+R4
+Z15 8C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/ctrl1.vhd
+Z16 FC:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/ctrl1.vhd
+l0
+L5
+VfQkMoP<dhbZ1CIO:3`TOJ2
+R7
+32
+Z17 !s108 1456409078.441000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/ctrl1.vhd|
+Z19 !s107 C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/ctrl1.vhd|
+R11
+R12
+!s100 [Yl`I:W[bZa[PShO;T7EH3
+!i10b 1
+Astr
+R1
+R2
+R3
+Z20 DEx4 work 5 ctrl1 0 22 fQkMoP<dhbZ1CIO:3`TOJ2
+l32
+L20
+VdC2:oCC1CXGCi4?eS788>2
+R7
+32
+R17
+R18
+R19
+R11
+R12
+!s100 ;JLbJf9R`a0SZj`>U1<EX2
+!i10b 1
+Alogic
+R1
+R2
+R3
+DEx4 work 5 ctrl1 0 22 YiIETYWcYE7AU8FZ`Rc;j0
+l26
+L19
+VB?PmLTF8a@?M;R]F6GT0B2
+R7
+32
+R18
+R11
+R12
+w1456392580
+R19
+!s108 1456394032.460000
+!s100 :3YDNV=WVcLQ48DnBcM`>3
+!i10b 1
+Ectrl2
+Z21 w1456406911
+R1
+R2
+R3
+R4
+Z22 8C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/ctrl2.vhd
+Z23 FC:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/ctrl2.vhd
+l0
+L5
+VkLYoSe7m>50`4WG^]VGeF3
+R7
+32
+Z24 !s108 1456409079.592000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/ctrl2.vhd|
+Z26 !s107 C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/ctrl2.vhd|
+R11
+R12
+!s100 EBh9=_WAA0elW2^M9A3lb3
+!i10b 1
+Astr
+R1
+R2
+R3
+Z27 DEx4 work 5 ctrl2 0 22 kLYoSe7m>50`4WG^]VGeF3
+l33
+L21
+VDWnYhFFT@zhN=SHLdKna_0
+!s100 gYc0PGjoOF[^acmhl7KgN0
+R7
+32
+R24
+R25
+R26
+R11
+R12
+!i10b 1
+Alogic
+R1
+R2
+R3
+DEx4 work 5 ctrl2 0 22 9:WCb8^`nfSoO17zng`:L2
+l27
+L20
+V;k^gOQFlcjMJkY]`WD@0F2
+R7
+32
+R25
+R11
+R12
+w1456392326
+R26
+!s108 1456397973.374000
+!s100 3DZQRmTH;B^P7bLGCz0h[1
+!i10b 1
+Edatapath1
+Z28 w1456394238
+R1
+R2
+R3
+R4
+Z29 8C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/datapath1.vhd
+Z30 FC:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/datapath1.vhd
+l0
+L5
+VRg[=aeoo[O]O64m7g<:3N2
+R7
+32
+Z31 !s108 1456409078.745000
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/datapath1.vhd|
+Z33 !s107 C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/datapath1.vhd|
+R11
+R12
+!s100 SMQN[KVm9lA;fZ;^M0_KG1
+!i10b 1
+Apath
+R13
+Z34 DEx4 work 10 subtractor 0 22 >b_nfF:QmEz6A<IeAImb70
+Z35 DEx4 work 3 reg 0 22 m5W3C_956M0AXV^fLTmz41
+Z36 DEx4 work 7 mux_2x1 0 22 ^XAL1`?2^3Q:[UDObLk8W0
+R1
+R2
+R3
+Z37 DEx4 work 9 datapath1 0 22 Rg[=aeoo[O]O64m7g<:3N2
+l27
+L23
+V:68Pe^6^e]H`GE=<[Pa<F0
+R7
+32
+R31
+R32
+R33
+R11
+R12
+!s100 kO5jA7b0eNm?lNVo7A;hQ0
+!i10b 1
+Edatapath2
+Z38 w1456398579
+R1
+R2
+R3
+R4
+Z39 8C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/datapath2.vhd
+Z40 FC:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/datapath2.vhd
+l0
+L5
+VBmWQ892Fgj_TATA<HNRbb1
+!s100 6CA>g3l_mhQZV<6hY3:;h0
+R7
+32
+!i10b 1
+Z41 !s108 1456409079.882000
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/datapath2.vhd|
+Z43 !s107 C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/datapath2.vhd|
+R11
+R12
+Apath
+R13
+R34
+R35
+R36
+R1
+R2
+R3
+Z44 DEx4 work 9 datapath2 0 22 BmWQ892Fgj_TATA<HNRbb1
+l29
+L25
+Z45 V0SZK]0Yh=J_TW^Z@3RKiE2
+Z46 !s100 ^;^^i=SD>J[<_z_4kG1^f2
+R7
+32
+!i10b 1
+R41
+R42
+R43
+R11
+R12
+Egcd
+Z47 w1456409028
+R1
+R2
+R3
+R4
+Z48 8C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/gcd.vhd
+Z49 FC:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/gcd.vhd
+l0
+L5
+VKiPifS8XCT=F151zOLHle1
+R7
+32
+Z50 !s108 1456409077.729000
+Z51 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/gcd.vhd|
+Z52 !s107 C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/gcd.vhd|
+R11
+R12
+!s100 NS1[mF8KLQgQ`Dg[RkPTQ3
+!i10b 1
+Afsmd2
+R1
+R2
+R3
+Z53 DEx4 work 3 gcd 0 22 KiPifS8XCT=F151zOLHle1
+l151
+L148
+V2<feUnWWJHF:QThUmUa8z3
+R7
+32
+R50
+R51
+R52
+R11
+R12
+!s100 [^OV=M^?AhMj2GYDeGNO30
+!i10b 1
+Afsm_d2
+R27
+R44
+R1
+R2
+R3
+R53
+l108
+L104
+VEXAfYg=Fkn0cFz_GnV_jC1
+R7
+32
+R50
+R51
+R52
+R11
+R12
+!s100 C690a9aXFA@O4QF:M9__K0
+!i10b 1
+Afsm_d1
+R37
+R20
+R1
+R2
+R3
+R53
+l71
+L67
+Vae2=`9a52=WJdQF4^^2OG3
+R7
+32
+R50
+R51
+R52
+R11
+R12
+!s100 C5kJX0Loba^kDnIAMlJd>3
+!i10b 1
+Afsmd
+R1
+R2
+R3
+R53
+l22
+L18
+VlcAn2o3WTmo`E=]Q:C]l32
+R7
+32
+R50
+R51
+R52
+R11
+R12
+!s100 d_>VVSo`g554ilhHEHi;z3
+!i10b 1
+Astructure
+Z54 DPx4 ieee 16 vital_primitives 0 22 9W@YP9_VCb?_GCJ8e:;YQ0
+DPx10 cycloneiii 20 cycloneiii_atom_pack 0 22 ]RlG5R]Q[aFAe9T5<XI<o1
+Z55 DPx4 ieee 12 vital_timing 0 22 7h8zz2S4HVg:a;2TBMI[j1
+R2
+R3
+DPx10 cycloneiii 21 cycloneiii_components 0 22 czVkNK5?8i<HPTLVSV_3a2
+DEx4 work 3 gcd 0 22 ]KCXFlCJYf<DfM3k3Uod]2
+l171
+L101
+Vb7i_bSzRB`aS:mPfQo@T]3
+R7
+32
+R11
+R12
+FC:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/simulation/modelsim/gcd.vho
+w1456193779
+8C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/simulation/modelsim/gcd.vho
+!s108 1456193950.083000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/simulation/modelsim/gcd.vho|
+!s107 C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/simulation/modelsim/gcd.vho|
+!s100 cH6hUbJLS9fB_V>]]f1aO0
+!i10b 1
+Egcd_tb
+Z56 w1456407579
+R1
+R2
+R3
+R4
+Z57 8C:\Users\Stefano\Desktop\Stefano\UF shit\Spring2016\Digital Design\Lab5\GCD\gcd_tb.vhd
+Z58 FC:\Users\Stefano\Desktop\Stefano\UF shit\Spring2016\Digital Design\Lab5\GCD\gcd_tb.vhd
+l0
+L5
+VWHNUS6HG12EiXT<R2abTd3
+R7
+32
+Z59 !s108 1456409077.497000
+Z60 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\Stefano\Desktop\Stefano\UF shit\Spring2016\Digital Design\Lab5\GCD\gcd_tb.vhd|
+Z61 !s107 C:\Users\Stefano\Desktop\Stefano\UF shit\Spring2016\Digital Design\Lab5\GCD\gcd_tb.vhd|
+R11
+R12
+!s100 7>>fD8ngA5J3b44S>BJ4c0
+!i10b 1
+Atb
+R53
+R1
+R2
+R3
+DEx4 work 6 gcd_tb 0 22 WHNUS6HG12EiXT<R2abTd3
+l22
+L8
+V54;n@D1_oSR7L?H@D2I_C0
+R7
+32
+R59
+R60
+R61
+R11
+R12
+!s100 k5LNi>hE31NTKX2iJSTAe3
+!i10b 1
+Emux_2x1
+Z62 w1456393636
+R2
+R3
+R4
+Z63 8C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/mux_2x1.vhd
+Z64 FC:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/mux_2x1.vhd
+l0
+L5
+V^XAL1`?2^3Q:[UDObLk8W0
+R7
+32
+Z65 !s108 1456409078.954000
+Z66 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/mux_2x1.vhd|
+Z67 !s107 C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/mux_2x1.vhd|
+R11
+R12
+!s100 k=bK^RmKMa_oC1FT[ozaU1
+!i10b 1
+Awith_select
+R2
+R3
+R36
+l17
+L16
+VCn1@N_Cgl;0Z=G5eH;0XG1
+R7
+32
+R65
+R66
+R67
+R11
+R12
+!s100 c9M82e<b@3WZz<V3O4A]52
+!i10b 1
+Ereg
+Z68 w1456393720
+R2
+R3
+R4
+Z69 8C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/reg.vhd
+Z70 FC:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/reg.vhd
+l0
+L4
+Vm5W3C_956M0AXV^fLTmz41
+R7
+32
+Z71 !s108 1456409079.207000
+Z72 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/reg.vhd|
+Z73 !s107 C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/reg.vhd|
+R11
+R12
+!s100 @1HDXR:o<?hDbKoBE1WJc2
+!i10b 1
+Alogic
+R2
+R3
+R35
+l17
+L15
+Vk?Mjl0bCHKCGfUCM@@:i52
+R7
+32
+R71
+R72
+R73
+R11
+R12
+!s100 UaaezYIE<:P_7=_Bjbdbj0
+!i10b 1
+Esubtractor
+Z74 w1456392412
+R1
+R2
+R3
+R4
+Z75 8C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/subtractor.vhd
+Z76 FC:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/subtractor.vhd
+l0
+L5
+V>b_nfF:QmEz6A<IeAImb70
+R7
+32
+Z77 !s108 1456409079.367000
+Z78 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/subtractor.vhd|
+Z79 !s107 C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/subtractor.vhd|
+R11
+R12
+!s100 oc^FRmZR79=<4Jd<14k292
+!i10b 1
+Alogic
+R1
+R2
+R3
+R34
+l16
+L15
+VgBcgcbTkcZ=@lzfHmJzjk3
+R7
+32
+R77
+R78
+R79
+R11
+R12
+!s100 fjjDR@WC]<R8ZX9mkPgmM2
+!i10b 1

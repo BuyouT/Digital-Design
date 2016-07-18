@@ -1,0 +1,17 @@
+|gray1
+clk => output[0]~reg0.CLK
+clk => output[1]~reg0.CLK
+clk => output[2]~reg0.CLK
+clk => output[3]~reg0.CLK
+clk => state~1.DATAIN
+rst => state~3.DATAIN
+rst => output[0]~reg0.ENA
+rst => output[3]~reg0.ENA
+rst => output[2]~reg0.ENA
+rst => output[1]~reg0.ENA
+output[0] <= output[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+output[1] <= output[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+output[2] <= output[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+output[3] <= output[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

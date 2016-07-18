@@ -1,0 +1,104 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\stefano92\Desktop\Stefano\UF shit\Spring2016\Digital Design\Lab2\Decoder
+Ealu_ns
+Z0 w1454005994
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\stefano92\Desktop\Stefano\UF shit\Spring2016\Digital Design\Lab2\alu_ns
+Z5 8C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab2/alu_ns/alu_ns.vhd
+Z6 FC:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab2/alu_ns/alu_ns.vhd
+l0
+L5
+V0WgB5Cj_@7;n:RSmb6VzB0
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1454006184.747000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab2/alu_ns/alu_ns.vhd|
+Z10 !s107 C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab2/alu_ns/alu_ns.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 gHTCUTn;AKhL[bnLBNR[b1
+!i10b 1
+Abhv
+R1
+R2
+R3
+DEx4 work 6 alu_ns 0 22 0WgB5Cj_@7;n:RSmb6VzB0
+l19
+L18
+V:Y2nDbhc8BY?Ubf[R97Ph0
+!s100 Je:=[BCfo<Khoj;OkG[7n0
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!i10b 1
+Astructure
+Z13 DPx4 ieee 16 vital_primitives 0 22 9W@YP9_VCb?_GCJ8e:;YQ0
+DPx10 cycloneiii 20 cycloneiii_atom_pack 0 22 ]RlG5R]Q[aFAe9T5<XI<o1
+Z14 DPx4 ieee 12 vital_timing 0 22 7h8zz2S4HVg:a;2TBMI[j1
+R2
+R3
+DPx10 cycloneiii 21 cycloneiii_components 0 22 czVkNK5?8i<HPTLVSV_3a2
+DEx4 work 6 alu_ns 0 22 g`EizO[bNT`E6VkalAUbj0
+l466
+L100
+VV?;5?JzMOz9SnF3L2dOKj0
+R7
+32
+R11
+R12
+FC:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab2/alu_ns/simulation/modelsim/alu_ns.vho
+w1453951194
+8C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab2/alu_ns/simulation/modelsim/alu_ns.vho
+!s108 1453952584.186000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab2/alu_ns/simulation/modelsim/alu_ns.vho|
+!s107 C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab2/alu_ns/simulation/modelsim/alu_ns.vho|
+!s100 kBI8EzDR0W_K74dAPC[G=0
+!i10b 1
+Ealu_ns_tb
+Z15 w1454006174
+Z16 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z17 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+R2
+R3
+R4
+Z18 8C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab2/alu_ns/alu_ns_tb.vhd
+Z19 FC:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab2/alu_ns/alu_ns_tb.vhd
+l0
+L6
+V4oKFj^:S[BAMBcYOCbPdX0
+!s100 50m0PQI`[mWC6I0D=o8BE0
+R7
+32
+!i10b 1
+Z20 !s108 1454006184.957000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab2/alu_ns/alu_ns_tb.vhd|
+Z22 !s107 C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab2/alu_ns/alu_ns_tb.vhd|
+R11
+R12
+Atb
+R16
+R17
+R2
+R3
+Z23 DEx4 work 9 alu_ns_tb 0 22 4oKFj^:S[BAMBcYOCbPdX0
+l33
+L9
+VfECL;0OZYQanhS2geBaWU0
+!s100 <L_=k@hEfNTzICFCG^CXh0
+R7
+32
+!i10b 1
+R20
+R21
+R22
+R11
+R12

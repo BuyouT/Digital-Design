@@ -1,0 +1,89 @@
+{C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/comparator.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/comparator.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity comparator
+-- Compiling architecture logic of comparator
+
+} {} {}} {C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/mux_2x1.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/mux_2x1.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux_2x1
+-- Compiling architecture WITH_SELECT of mux_2x1
+
+} {} {}} {C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/datapath1.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/datapath1.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity datapath1
+-- Compiling architecture path of datapath1
+-- Loading entity mux_2x1
+-- Loading entity reg
+-- Loading entity subtractor
+-- Loading entity comparator
+
+} {} {}} {C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/datapath2.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/datapath2.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity datapath2
+-- Compiling architecture path of datapath2
+-- Loading entity mux_2x1
+-- Loading entity reg
+-- Loading entity subtractor
+-- Loading entity comparator
+
+} {} {}} {C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/subtractor.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/subtractor.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity subtractor
+-- Compiling architecture logic of subtractor
+
+} {} {}} {C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/reg.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/reg.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity reg
+-- Compiling architecture logic of reg
+
+} {} {}} {C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/ctrl1.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/ctrl1.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ctrl1
+-- Compiling architecture STR of ctrl1
+
+} {} {}} {C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/gcd_tb.vhd} {1 {vcom -work work -2002 -explicit {C:\Users\Stefano\Desktop\Stefano\UF shit\Spring2016\Digital Design\Lab5\GCD\gcd_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity gcd_tb
+-- Compiling architecture TB of gcd_tb
+-- Loading entity gcd
+
+} {} {}} {C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/ctrl2.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/ctrl2.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ctrl2
+-- Compiling architecture STR of ctrl2
+
+} {} {}}

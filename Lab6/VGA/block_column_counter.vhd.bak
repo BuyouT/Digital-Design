@@ -1,0 +1,13 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+use work.vga_lib.all;
+
+entity block_column_counter  is
+  port ( 
+  input			 : in  std_logic_vector(2 downto 0);
+  Hcount        : in std_logic_vector(COUNT_WIDTH-1 downto 0);
+  column_count  : out std_logic_vector(5 downto 0);
+  show_image	 : out std_logic);
+end block_column_counter;
+

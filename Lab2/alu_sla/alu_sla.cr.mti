@@ -1,0 +1,11 @@
+{C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab2/alu_sla/alu_sla.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab2/alu_sla/alu_sla.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity alu_sla
+-- Compiling architecture BHV of alu_sla
+
+} {} {}}

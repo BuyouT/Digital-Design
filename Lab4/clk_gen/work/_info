@@ -1,0 +1,148 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\Stefano\Desktop\Stefano\UF shit\Spring2016\Digital Design\Lab4\clk_div
+Eclk_div
+Z0 w1455766701
+Z1 DPx4 ieee 9 math_real 0 22 :iME`dTX54_U49lJNF5JI3
+Z2 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dC:\Users\Stefano\Desktop\Stefano\UF shit\Spring2016\Digital Design\Lab4\clk_gen
+Z6 8C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab4/clk_gen/clk_div.vhd
+Z7 FC:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab4/clk_gen/clk_div.vhd
+l0
+L6
+Vei1;A>M9J7SlQ;LPY1LPN3
+!s100 S:j`_`FGhz:_BYONAkX9[2
+Z8 OV;C;10.1d;51
+32
+!i10b 1
+Z9 !s108 1455770309.429000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab4/clk_gen/clk_div.vhd|
+Z11 !s107 C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab4/clk_gen/clk_div.vhd|
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+Abhv
+R1
+R2
+R3
+R4
+Z14 DEx4 work 7 clk_div 0 22 ei1;A>M9J7SlQ;LPY1LPN3
+l19
+L15
+Z15 VnKeJggogNWJ[P@Q[_eI1<3
+Z16 !s100 8R`9;bk369Fg_zaB5Vf=W1
+R8
+32
+!i10b 1
+R9
+R10
+R11
+R12
+R13
+Eclk_gen
+Z17 w1455769478
+R1
+R2
+R3
+R4
+R5
+Z18 8C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab4/clk_gen/clk_gen.vhd
+Z19 FC:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab4/clk_gen/clk_gen.vhd
+l0
+L6
+VHi6YlWD>7JgdJa]k@C7bT3
+R8
+32
+Z20 !s108 1455770308.751000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab4/clk_gen/clk_gen.vhd|
+Z22 !s107 C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab4/clk_gen/clk_gen.vhd|
+R12
+R13
+!s100 fkl@nGlehgCTePDC<><jO3
+!i10b 1
+Abhv
+R14
+R1
+R2
+R3
+R4
+Z23 DEx4 work 7 clk_gen 0 22 Hi6YlWD>7JgdJa]k@C7bT3
+l21
+L17
+VAzD<`lWLMogfNoRlfYZMQ1
+R8
+32
+R20
+R21
+R22
+R12
+R13
+!s100 B`Z_adhU^iG52gD@Nb2Pj0
+!i10b 1
+Astructure
+DPx10 cycloneiii 20 cycloneiii_atom_pack 0 22 ]RlG5R]Q[aFAe9T5<XI<o1
+DPx10 cycloneiii 21 cycloneiii_components 0 22 czVkNK5?8i<HPTLVSV_3a2
+Z24 DPx4 ieee 16 vital_primitives 0 22 9W@YP9_VCb?_GCJ8e:;YQ0
+DPx6 altera 11 dffeas_pack 0 22 oY7WPe2I:Taj0>HV`A`AH0
+Z25 DPx4 ieee 12 vital_timing 0 22 7h8zz2S4HVg:a;2TBMI[j1
+R3
+R4
+DPx6 altera 28 altera_primitives_components 0 22 H[E=U;zSVlD;ca@gnkzIO0
+DEx4 work 7 clk_gen 0 22 Dei5A]DXKjgc5zH^VVIRM2
+l147
+L52
+V6e>47V4TS7ZVL=DSQ8F7F2
+R8
+32
+R12
+R13
+FC:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab4/clk_gen/simulation/modelsim/clk_gen.vho
+w1455428100
+8C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab4/clk_gen/simulation/modelsim/clk_gen.vho
+!s108 1455428289.404000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab4/clk_gen/simulation/modelsim/clk_gen.vho|
+!s107 C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab4/clk_gen/simulation/modelsim/clk_gen.vho|
+!s100 ?FTzTGZi6h9Gm0U>:9D[01
+!i10b 1
+Eclk_gen_tb
+Z26 w1455428151
+R2
+R3
+R4
+R5
+Z27 8C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab4/clk_gen/clk_gen_tb.vhd
+Z28 FC:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab4/clk_gen/clk_gen_tb.vhd
+l0
+L5
+VXG>?IP]Mz;@P<k8Ye^dnb3
+R8
+32
+Z29 !s108 1455770309.071000
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab4/clk_gen/clk_gen_tb.vhd|
+Z31 !s107 C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab4/clk_gen/clk_gen_tb.vhd|
+R12
+R13
+!s100 0jecEPMJ1jlV4nV^j`EdV3
+!i10b 1
+Atb
+R1
+R23
+R2
+R3
+R4
+DEx4 work 10 clk_gen_tb 0 22 XG>?IP]Mz;@P<k8Ye^dnb3
+l25
+L8
+V2O6j2NXU=OW;6X?TO@`Dz3
+!s100 j;Q5M<iTMV3KZWJ3gKU553
+R8
+32
+R29
+R30
+R31
+R12
+R13
+!i10b 1

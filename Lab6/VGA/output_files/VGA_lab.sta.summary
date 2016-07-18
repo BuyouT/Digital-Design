@@ -1,0 +1,149 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'pixel_clock:U_PCLK|toggle'
+Slack : -8.058
+TNS   : -244.726
+
+Type  : Slow 1200mV 85C Model Setup 'VGA_sync_gen:U_VSG|tempVcount[0]'
+Slack : -1.328
+TNS   : -12.930
+
+Type  : Slow 1200mV 85C Model Setup 'VGA_sync_gen:U_VSG|tempHcount[0]'
+Slack : -1.137
+TNS   : -11.370
+
+Type  : Slow 1200mV 85C Model Setup 'clk50Mhz'
+Slack : -0.225
+TNS   : -0.225
+
+Type  : Slow 1200mV 85C Model Hold 'pixel_clock:U_PCLK|toggle'
+Slack : -0.046
+TNS   : -0.046
+
+Type  : Slow 1200mV 85C Model Hold 'clk50Mhz'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'VGA_sync_gen:U_VSG|tempVcount[0]'
+Slack : 0.395
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'VGA_sync_gen:U_VSG|tempHcount[0]'
+Slack : 0.426
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk50Mhz'
+Slack : -3.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'pixel_clock:U_PCLK|toggle'
+Slack : -2.174
+TNS   : -99.264
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'VGA_sync_gen:U_VSG|tempHcount[0]'
+Slack : -1.000
+TNS   : -10.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'VGA_sync_gen:U_VSG|tempVcount[0]'
+Slack : -1.000
+TNS   : -10.000
+
+Type  : Slow 1200mV 0C Model Setup 'pixel_clock:U_PCLK|toggle'
+Slack : -7.181
+TNS   : -215.107
+
+Type  : Slow 1200mV 0C Model Setup 'VGA_sync_gen:U_VSG|tempVcount[0]'
+Slack : -1.093
+TNS   : -10.617
+
+Type  : Slow 1200mV 0C Model Setup 'VGA_sync_gen:U_VSG|tempHcount[0]'
+Slack : -0.928
+TNS   : -9.280
+
+Type  : Slow 1200mV 0C Model Setup 'clk50Mhz'
+Slack : -0.056
+TNS   : -0.056
+
+Type  : Slow 1200mV 0C Model Hold 'pixel_clock:U_PCLK|toggle'
+Slack : -0.064
+TNS   : -0.064
+
+Type  : Slow 1200mV 0C Model Hold 'clk50Mhz'
+Slack : 0.088
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'VGA_sync_gen:U_VSG|tempVcount[0]'
+Slack : 0.351
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'VGA_sync_gen:U_VSG|tempHcount[0]'
+Slack : 0.379
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk50Mhz'
+Slack : -3.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'pixel_clock:U_PCLK|toggle'
+Slack : -2.174
+TNS   : -99.264
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'VGA_sync_gen:U_VSG|tempHcount[0]'
+Slack : -1.000
+TNS   : -10.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'VGA_sync_gen:U_VSG|tempVcount[0]'
+Slack : -1.000
+TNS   : -10.000
+
+Type  : Fast 1200mV 0C Model Setup 'pixel_clock:U_PCLK|toggle'
+Slack : -4.121
+TNS   : -116.989
+
+Type  : Fast 1200mV 0C Model Setup 'VGA_sync_gen:U_VSG|tempVcount[0]'
+Slack : -0.273
+TNS   : -2.542
+
+Type  : Fast 1200mV 0C Model Setup 'VGA_sync_gen:U_VSG|tempHcount[0]'
+Slack : -0.166
+TNS   : -1.660
+
+Type  : Fast 1200mV 0C Model Setup 'clk50Mhz'
+Slack : 0.137
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'pixel_clock:U_PCLK|toggle'
+Slack : -0.042
+TNS   : -0.042
+
+Type  : Fast 1200mV 0C Model Hold 'clk50Mhz'
+Slack : 0.024
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'VGA_sync_gen:U_VSG|tempVcount[0]'
+Slack : 0.209
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'VGA_sync_gen:U_VSG|tempHcount[0]'
+Slack : 0.226
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk50Mhz'
+Slack : -3.000
+TNS   : -4.006
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'pixel_clock:U_PCLK|toggle'
+Slack : -1.000
+TNS   : -57.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'VGA_sync_gen:U_VSG|tempHcount[0]'
+Slack : -1.000
+TNS   : -10.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'VGA_sync_gen:U_VSG|tempVcount[0]'
+Slack : -1.000
+TNS   : -10.000
+
+------------------------------------------------------------

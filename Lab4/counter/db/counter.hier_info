@@ -1,0 +1,27 @@
+|counter
+clk => count[0].CLK
+clk => count[1].CLK
+clk => count[2].CLK
+clk => count[3].CLK
+rst => count[0].ACLR
+rst => count[1].ACLR
+rst => count[2].ACLR
+rst => count[3].ACLR
+up_n => count.OUTPUTSELECT
+up_n => count.OUTPUTSELECT
+up_n => count.OUTPUTSELECT
+up_n => count.OUTPUTSELECT
+load_n => count.OUTPUTSELECT
+load_n => count.OUTPUTSELECT
+load_n => count.OUTPUTSELECT
+load_n => count.OUTPUTSELECT
+input[0] => count.DATAB
+input[1] => count.DATAB
+input[2] => count.DATAB
+input[3] => count.DATAB
+output[0] <= count[0].DB_MAX_OUTPUT_PORT_TYPE
+output[1] <= count[1].DB_MAX_OUTPUT_PORT_TYPE
+output[2] <= count[2].DB_MAX_OUTPUT_PORT_TYPE
+output[3] <= count[3].DB_MAX_OUTPUT_PORT_TYPE
+
+

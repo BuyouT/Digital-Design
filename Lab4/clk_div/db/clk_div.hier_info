@@ -1,0 +1,8 @@
+|clk_div
+clk_in => count.CLK
+clk_in => clk_hz.CLK
+clk_out <= clk_hz.DB_MAX_OUTPUT_PORT_TYPE
+rst => count.ACLR
+rst => clk_hz.ACLR
+
+

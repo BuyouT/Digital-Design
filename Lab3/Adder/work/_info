@@ -1,0 +1,318 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\stefano92\Desktop\Stefano\UF shit\Spring2016\Digital Design\Lab2\alu_ns
+Eadder
+Z0 w1454577673
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dC:\Users\stefano92\Desktop\Stefano\UF shit\Spring2016\Digital Design\Lab3\Adder
+Z4 8C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab3/Adder/adder.vhd
+Z5 FC:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab3/Adder/adder.vhd
+l0
+L4
+VjEfQR@2jA8EDbVMJ05=z;3
+!s100 6XLc0b5TQDABh51D>WcEW2
+Z6 OV;C;10.1d;51
+32
+!i10b 1
+Z7 !s108 1454597817.484000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab3/Adder/adder.vhd|
+Z9 !s107 C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab3/Adder/adder.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+Ahierarchical
+Z12 DEx4 work 5 cgen2 0 22 l[Qjdg4DH=4>[`eYh4zO;0
+Z13 DEx4 work 4 cla4 0 22 S7U078jQ1gO0STDa>7c[F2
+R1
+R2
+Z14 DEx4 work 5 adder 0 22 jEfQR@2jA8EDbVMJ05=z;3
+l156
+L152
+Z15 VKMimLUc_4?Q0^@Kf6^z2;0
+Z16 !s100 BOzoS=oZH=Zj`EhmL7KN91
+R6
+32
+!i10b 1
+R7
+R8
+R9
+R10
+R11
+Acarry_lookahead_bad_synthesis
+R1
+R2
+R14
+l109
+L108
+Z17 V1ZVbP8:RGW1l=23zo>9T83
+Z18 !s100 MKmgb2:dXD0fY;G52e=A81
+R6
+32
+!i10b 1
+R7
+R8
+R9
+R10
+R11
+Acarry_lookahead
+R1
+R2
+R14
+l34
+L32
+Z19 V1I7<IzAcz>QD3KOFlA8e=0
+Z20 !s100 e[==^4^koQ?QXADiM5N;30
+R6
+32
+!i10b 1
+R7
+R8
+R9
+R10
+R11
+Aripple_carry
+Z21 DEx4 work 2 fa 0 22 gD?`DeY9eeRPoCZbN7j4S3
+R1
+R2
+R14
+l16
+L14
+Z22 VTGMoCF>WNiPCGYE@>1gAd3
+Z23 !s100 OLk>[:N[4_f>n9MT1`P0N0
+R6
+32
+!i10b 1
+R7
+R8
+R9
+R10
+R11
+Astructure
+Z24 DPx4 ieee 16 vital_primitives 0 22 9W@YP9_VCb?_GCJ8e:;YQ0
+DPx10 cycloneiii 20 cycloneiii_atom_pack 0 22 ]RlG5R]Q[aFAe9T5<XI<o1
+Z25 DPx4 ieee 12 vital_timing 0 22 7h8zz2S4HVg:a;2TBMI[j1
+R1
+R2
+DPx10 cycloneiii 21 cycloneiii_components 0 22 czVkNK5?8i<HPTLVSV_3a2
+DEx4 work 5 adder 0 22 ?eLHH117P;mOR<XZ0_SGC0
+l139
+L73
+VcIAJA3k_NImSX1nbIEk:J0
+R6
+32
+R10
+R11
+FC:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab3/Adder/simulation/modelsim/adder.vho
+w1454577754
+8C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab3/Adder/simulation/modelsim/adder.vho
+!s108 1454597688.298000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab3/Adder/simulation/modelsim/adder.vho|
+!s107 C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab3/Adder/simulation/modelsim/adder.vho|
+!s100 bS;^GF_O6ca]IY2QK<6:73
+!i10b 1
+Eadder_tb
+Z26 w1454577281
+Z27 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R1
+R2
+R3
+Z28 8C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab3/Adder/adder_tb.vhd
+Z29 FC:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab3/Adder/adder_tb.vhd
+l0
+L8
+VEOWd>WI0`U0Z^gP]G=:Ko3
+R6
+32
+Z30 !s108 1454597814.392000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab3/Adder/adder_tb.vhd|
+Z32 !s107 C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab3/Adder/adder_tb.vhd|
+R10
+R11
+!s100 2o4eLOQ8B6CM:i<QIGB@]2
+!i10b 1
+Atb
+R27
+R1
+R2
+Z33 DEx4 work 8 adder_tb 0 22 EOWd>WI0`U0Z^gP]G=:Ko3
+l39
+L12
+V^]jfik;khL30a_9IOZl`a2
+R6
+32
+R30
+R31
+R32
+R10
+R11
+!s100 6XnR:Sglf=Zc=X<=P8N082
+!i10b 1
+Ecgen2
+Z34 w1454560986
+R1
+R2
+R3
+Z35 8C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab3/Adder/cgen2.vhd
+Z36 FC:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab3/Adder/cgen2.vhd
+l0
+L4
+Vl[Qjdg4DH=4>[`eYh4zO;0
+R6
+32
+Z37 !s108 1454597815.491000
+Z38 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab3/Adder/cgen2.vhd|
+Z39 !s107 C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab3/Adder/cgen2.vhd|
+R10
+R11
+!s100 >OW5MXmK^o5@@MKNdO^l33
+!i10b 1
+Abhv
+R1
+R2
+R12
+l13
+L12
+V3;16zXSe^`PJ_]EPjLgYn2
+R6
+32
+R37
+R38
+R39
+R10
+R11
+!s100 i`40lUH8`58BT2McBKj<m1
+!i10b 1
+Ecla2
+Z40 w1454563366
+R1
+R2
+R3
+Z41 8C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab3/Adder/cla2.vhd
+Z42 FC:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab3/Adder/cla2.vhd
+l0
+L4
+VJlR=nVZo4LPgchIo629Aj1
+R6
+32
+Z43 !s108 1454597815.989000
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab3/Adder/cla2.vhd|
+Z45 !s107 C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab3/Adder/cla2.vhd|
+R10
+R11
+!s100 bDcNMd7QXlfL3F:aFZf=`1
+!i10b 1
+Abhv
+R1
+R2
+Z46 DEx4 work 4 cla2 0 22 JlR=nVZo4LPgchIo629Aj1
+l15
+L13
+VFD<zF;RL_WW4@@eObL00>3
+R6
+32
+R43
+R44
+R45
+R10
+R11
+!s100 @[jGA6<UlbYofiZn74H4_0
+!i10b 1
+Ecla4
+Z47 w1454575554
+R1
+R2
+R3
+Z48 8C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab3/Adder/cla4.vhd
+Z49 FC:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab3/Adder/cla4.vhd
+l0
+L4
+VS7U078jQ1gO0STDa>7c[F2
+R6
+32
+Z50 !s108 1454597816.354000
+Z51 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab3/Adder/cla4.vhd|
+Z52 !s107 C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab3/Adder/cla4.vhd|
+R10
+R11
+!s100 cIMOUf1>e:i4F`zDKkbdm0
+!i10b 1
+Abhv
+R12
+R46
+R1
+R2
+R13
+l16
+L13
+VZ:mQbE2@KBBX3I^B:_a?H2
+R6
+32
+R50
+R51
+R52
+R10
+R11
+!s100 kHIE=G=eCc:@L[mO:ozQQ0
+!i10b 1
+Efa
+Z53 w1453243942
+R1
+R2
+R3
+Z54 8C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab3/Adder/fa.vhd
+Z55 FC:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab3/Adder/fa.vhd
+l0
+L6
+VgD?`DeY9eeRPoCZbN7j4S3
+R6
+32
+Z56 !s108 1454597816.912000
+Z57 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab3/Adder/fa.vhd|
+Z58 !s107 C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab3/Adder/fa.vhd|
+R10
+R11
+!s100 4@bSWGVZOB2kPmQh^1>cT1
+!i10b 1
+Abhv
+R1
+R2
+R21
+l18
+L17
+VkOD86?J:MJLlhn0hOaPL]0
+!s100 `QA:i7OUG4DeHa8HF><F;2
+R6
+32
+R56
+R57
+R58
+R10
+R11
+!i10b 1
+Ctb_config
+aTB
+eadder_tb
+R14
+DAx4 work 8 adder_tb 2 tb 22 ^]jfik;khL30a_9IOZl`a2
+R27
+R1
+R2
+R33
+R26
+R3
+R28
+R29
+l0
+L236
+V[en=UdKOPmA@6K>]l2CQ:2
+R6
+32
+R30
+R31
+R32
+R10
+R11
+!s100 h5UInFD?ffYVJ4]ii2F5G2
+!i10b 1

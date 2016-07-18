@@ -1,0 +1,31 @@
+{C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab1/Counter/simulation/modelsim/Counter.vho} {1 {vcom -work work -2002 -explicit {C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab1/Counter/simulation/modelsim/Counter.vho}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package VITAL_Timing
+-- Loading package VITAL_Primitives
+-- Loading package dffeas_pack
+-- Loading package altera_primitives_components
+-- Loading package cycloneiii_atom_pack
+-- Loading package cycloneiii_components
+-- Compiling entity Counter
+-- Compiling architecture structure of Counter
+
+} {} {}} {C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab1/Counter/counter_tb.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/stefano92/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab1/Counter/counter_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity counter_tb
+-- Compiling architecture TB of counter_tb
+-- Loading package VITAL_Timing
+-- Loading package VITAL_Primitives
+-- Loading package dffeas_pack
+-- Loading package altera_primitives_components
+-- Loading package cycloneiii_atom_pack
+-- Loading package cycloneiii_components
+-- Loading entity Counter
+
+} {} {}}

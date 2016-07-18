@@ -1,0 +1,15 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab4/clk_div/clk_div.vhd
+source_file = 1, C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab4/clk_div/db/clk_div.cbx.xml
+source_file = 1, c:/altera/13.1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = clk_div
+instance = comp, \clk_out~output\, clk_out~output, clk_div, 1
+instance = comp, \clk_in~input\, clk_in~input, clk_div, 1
+instance = comp, \clk_in~inputclkctrl\, clk_in~inputclkctrl, clk_div, 1
+instance = comp, \count~0\, count~0, clk_div, 1
+instance = comp, \rst~input\, rst~input, clk_div, 1
+instance = comp, \rst~inputclkctrl\, rst~inputclkctrl, clk_div, 1
+instance = comp, \clk_hz~0\, clk_hz~0, clk_div, 1

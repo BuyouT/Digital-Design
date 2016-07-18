@@ -1,0 +1,35 @@
+{C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab4/clk_gen/clk_div.vhd} {2 {vcom -work work -2002 -explicit {C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab4/clk_gen/clk_div.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Compiling entity clk_div
+-- Compiling architecture BHV of clk_div
+** Warning: [9] C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab4/clk_gen/clk_div.vhd(18): (vcom-1013) Subtype of "std.STANDARD.INTEGER" depends on value of signal "max_range".
+
+
+} {} {}} {C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab4/clk_gen/clk_gen_tb.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab4/clk_gen/clk_gen_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity clk_gen_tb
+-- Compiling architecture TB of clk_gen_tb
+-- Loading package MATH_REAL
+-- Loading entity clk_gen
+
+} {} {}} {C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab4/clk_gen/clk_gen.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab4/clk_gen/clk_gen.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Compiling entity clk_gen
+-- Compiling architecture BHV of clk_gen
+-- Loading entity clk_div
+
+} {} {}}

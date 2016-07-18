@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="VGA_lab">
+		<CBX_INST_ENTRY INSTANCE_NAME="|VGA_lab|vga_rom1:U_VGAROM2|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_m4s3.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|VGA_lab|vga_rom2:U_VGAROM3|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_err3.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|VGA_lab|vga_rom:U_VGAROM1|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_rpr3.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

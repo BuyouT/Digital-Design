@@ -1,0 +1,68 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+use work.vga_lib.all;
+
+entity VGA_sync_gen  is
+  port (
+  clock_input 	: in std_logic;
+  Hcount      	: out std_logic_vector(COUNT_WIDTH downto 0);
+  Vcount	 		: out std_logic_vector(COUNT_WIDTH downto 0);
+  Horiz_Sync  	: out std_logic; 
+  Vert_Sync   	: out std_logic;
+  Video_On    	: out std_logic);
+end VGA_sync_gen;
+
+
+
+
+architecture behv of VGA_sync_gen  is
+	signal tempHcount  :  unsigned(9 downto 0) :="0000000000";
+	signal tempVcount  :  unsigned(9 downto 0) :="0000000000";
+begin
+process(clock_input) --Hcount and Vcount
+   begin
+      if(clock_input'event and clock_input='1') then
+	    if tempHcount= to_unsigned(H_MAX,10) then
+	       tempHcount <="0000000000";
+	    else
+	       tempHcount<= tempHcount+ 1;
+	    end if;
+    
+	  if  (tempHcount = to_unsigned(H_VERT_INC,10)) then
+	            tempVcount<= tempVcount+ 1;             
+	 elsif tempVcount = to_unsigned(V_MAX,10) then
+	       tempVcount <="0000000000";          
+        end if;
+        
+     end if;   
+      Vcount <= std_logic_vector(tempVcount);      
+      Hcount <= std_logic_vector(tempHcount);
+   end process;
+  
+
+process(tempVcount,tempHcount)  --Vertical and Horizontal sync
+begin
+
+	if (tempHcount > to_unsigned(HSYNC_BEGIN,10)) and (tempHcount < to_unsigned(HSYNC_END,10)) then
+		Horiz_Sync <= '0';
+	else 
+		Horiz_Sync <= '1';
+	end if;
+
+	if tempVcount >= to_unsigned(VSYNC_BEGIN,10) and tempVcount<=to_unsigned(VSYNC_END,10) then
+		Vert_Sync <= '0';
+	else 
+		Vert_Sync <= '1';
+	end if;
+
+	if tempHcount >= to_unsigned(0,10) and tempHcount <= to_unsigned(H_DISPLAY_END,10) then
+		Video_On <= '1';
+	else
+		Video_On <= '0';
+	end if;
+
+
+end process;
+
+end behv;

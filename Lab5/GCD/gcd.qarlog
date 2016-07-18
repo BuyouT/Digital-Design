@@ -1,0 +1,26 @@
+Quartus II Archive log --	C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/gcd.qarlog
+
+Archive:	C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/gcd.qar
+Date:		Thu Feb 25 03:33:04 2016
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/comparator.vhd
+C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/ctrl1.vhd
+C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/ctrl2.vhd
+C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/datapath1.vhd
+C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/datapath2.vhd
+C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/db/gcd.cmp.hdb
+C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/db/gcd.db_info
+C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/gcd.qpf
+C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/gcd.qsf
+C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/gcd.vhd
+C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/incremental_db/compiled_partitions/gcd.db_info
+C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/mux_2x1.vhd
+C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/reg.vhd
+C:/Users/Stefano/Desktop/Stefano/UF shit/Spring2016/Digital Design/Lab5/GCD/subtractor.vhd
+c:/altera/13.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 15 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

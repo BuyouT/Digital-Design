@@ -1,0 +1,92 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+use work.vga_lib.all;
+
+entity block_row_counter  is
+  port ( 
+  input			 : in  std_logic_vector(2 downto 0);
+  Vcount        : in std_logic_vector(COUNT_WIDTH-1 downto 0);
+  column_count  : out std_logic_vector(5 downto 0);
+  show_image	 : out std_logic);
+end block_row_counter;
+
+architecture behv of Block_row_counter  is
+	signal clock :std_logic;
+begin
+	clock <= Vcount(0);
+process(Vcount,clock)
+   variable temp_row_count  :  unsigned(5 downto 0);
+   begin
+     if(clock'event and clock ='1') then
+			if (input="011") then --show image at top left
+				if unsigned(Vcount) <= TOP_LEFT_X_END and unsigned(Vcount) >= TOP_LEFT_X_START then
+					temp_row_count := temp_row_count+1;
+					show_image<='1';
+				else 
+					temp_row_count := to_unsigned(0,6);
+					show_image<='0';
+				end if;
+			elsif (input="101") then --show image at top right
+				if unsigned(Vcount) <= TOP_RIGHT_X_END and unsigned(Vcount) >= TOP_RIGHT_X_START then
+					temp_row_count := temp_row_count+1;
+					show_image<='1';
+				else 
+					temp_row_count := to_unsigned(0,6);
+					show_image<='0';
+				end if;
+			elsif (input="001") then --show image at bottom left
+				if unsigned(Vcount) <= BOTTOM_LEFT_X_END and unsigned(Vcount) >= BOTTOM_LEFT_X_START then
+					temp_row_count := temp_row_count+1;
+					show_image<='1';
+				else 
+					temp_row_count := to_unsigned(0,6);
+					show_image<='0';
+				end if;
+			elsif (input="110") then --show image at bottom right
+				if unsigned(Vcount) <= BOTTOM_RIGHT_X_END and unsigned(Vcount) >= BOTTOM_RIGHT_X_START then
+					temp_row_count := temp_row_count+1;
+					show_image<='1';
+				else 
+					temp_row_count := to_unsigned(0,6);
+					show_image<='0';
+				end if;
+			else	                     --show at the center
+				if (control_movement="00" or control_movement="11") then
+					if 		unsigned(Vcount) <= to_unsigned(CENTERED_X_END,10)
+						and   unsigned(Vcount) >= to_unsigned(CENTERED_X_START,10)
+					then
+						temp_row_count := temp_row_count+1;
+						show_image<='1';
+					else 
+						temp_row_count := to_unsigned(0,6);
+						show_image<='0';
+					end if;
+				elsif (control_movement="01") then
+					if 		unsigned(Vcount) <= to_unsigned(CENTERED_X_END,10) +unsigned(move)
+						and   unsigned(Vcount) >= to_unsigned(CENTERED_X_START,10) +unsigned(move)
+					then
+						temp_row_count := temp_row_count+1;
+						show_image<='1';
+					else 
+						temp_row_count := to_unsigned(0,6);
+						show_image<='0';
+					end if;
+				elsif (control_movement="10") then
+					if 		unsigned(Vcount) <= to_unsigned(CENTERED_X_END,10) -unsigned(move)
+						and   unsigned(Vcount) >= to_unsigned(CENTERED_X_START,10) -unsigned(move)
+					then
+						temp_row_count := temp_row_count+1;
+						show_image<='1';
+					else 
+						temp_row_count := to_unsigned(0,6);
+						show_image<='0';
+					end if;	
+				
+				end if;	
+			end if;
+		end if;
+		row_count <=std_logic_vector(temp_row_count);
+   end process;
+  
+end behv;

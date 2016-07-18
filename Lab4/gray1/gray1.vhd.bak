@@ -1,0 +1,20 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity gray1 is
+    port (
+        clk    : in  std_logic;
+        rst    : in  std_logic;
+        output : out std_logic_vector(3 downto 0));
+end gray1;
+
+architecture BHV of gray1 is
+	type STATE_TYPE is (STATE0, STATE1, STATE2, STATE3, STATE4, STATE5, STATE5, STATE6, STATE7, 
+								STATE8, STATE9, STATEA, STATEB, STATEC, STATED, STATEE, STATEF);
+	signal state : STATE_TYPE;
+
+begin
+	process(clk, rst)
+	begin
+		if rst = '1' then
+			
